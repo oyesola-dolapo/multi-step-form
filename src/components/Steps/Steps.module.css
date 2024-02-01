@@ -1,6 +1,6 @@
 .stepSection {
   height: 100%;
-  background-image: url("/src//assets/images/bg-sidebar-desktop.svg");
+  background-image: url("/images/bg-sidebar-desktop.svg");
   background-repeat: no-repeat;
   background-position: center;
   width: 25%;
@@ -39,7 +39,7 @@
   letter-spacing: 1px;
 }
 
-.active .number{
+.active .number {
   background-color: white;
   color: black;
 }
